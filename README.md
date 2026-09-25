@@ -5,7 +5,7 @@ Welcome to my cybersecurity portfolio! This repository contains hands-on project
 ## 📂 Projects
 
 * **[Linux File Permissions](./1-Linux-File-Permissions/)** - An audit and remediation of file and directory permissions in a Linux environment using Bash commands, ensuring alignment with organizational security policies.
-* **[Apply Filters to SQL Queries](./apply-filters-to-sql-queries.pdf)** - An investigation of suspicious login activity and identification of employee machines requiring security updates by filtering database tables with SQL queries.
+* **[Apply Filters to SQL Queries]([./apply-filters-to-sql-queries.pdf](https://github.com/PanosM03/Google-Cybersecurity-Portfolio/tree/main/2-Apply-filters-to-SQL-queries)** - An investigation of suspicious login activity and identification of employee machines requiring security updates by filtering database tables with SQL queries.
 * *(More projects will be added as I progress through the certification)**
 
 ## 🛠️ Skills Demonstrated
