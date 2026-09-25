@@ -5,12 +5,14 @@ Welcome to my cybersecurity portfolio! This repository contains hands-on project
 ## 📂 Projects
 
 * **[Linux File Permissions](./1-Linux-File-Permissions/)** - An audit and remediation of file and directory permissions in a Linux environment using Bash commands, ensuring alignment with organizational security policies.
-* *(More projects will be added as I progress through the certification)*
+* **[Apply Filters to SQL Queries](./apply-filters-to-sql-queries.pdf)** - An investigation of suspicious login activity and identification of employee machines requiring security updates by filtering database tables with SQL queries.
+* *(More projects will be added as I progress through the certification)**
 
 ## 🛠️ Skills Demonstrated
 
 * Linux Command Line (Bash)
 * File and Directory Authorization (`chmod`, `ls -la`)
+* SQL Database Querying & Filtering (`SELECT`, `WHERE`, `LIKE`, `AND`, `OR`, `NOT`)
 * Security Policy Enforcement
 * Threat Contextualization
 
